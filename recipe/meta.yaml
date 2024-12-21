@@ -1,5 +1,6 @@
 {% set name = "ruyaml" %}
 {% set version = "0.91.0" %}
+{% set python_min = "3.6" %}
 
 package:
   name: {{ name|lower }}
